@@ -45,3 +45,4 @@ Usage is very simple. A master file to manage your resources (api.json) and then
 - shortDecription (optional)
 - url (optional)
 - parameters (optional)
+- output (optional)
