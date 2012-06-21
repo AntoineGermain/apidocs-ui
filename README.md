@@ -35,7 +35,8 @@ Usage is very simple. A master file to manage your resources (api.json) and then
 						"value":"(number)",
 						"description": "ID of the doc example"
 					}
-				]
+				],
+				"output":"{'key':'json','key_2':'json','key_2':'json'}"
 			}
 		]
 	} 
