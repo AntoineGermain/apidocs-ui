@@ -14,7 +14,8 @@
 					"value":"(number)",
 					"description": "ID of the doc example"
 				}
-			]
+			],
+			"output":"{'key':'json','key_2':'json','key_2':'json'}"
 		},
 		{
 			"endpoint":"example/complex",
@@ -38,7 +39,8 @@
 					"value":"(string)",
 					"description": "Text of the example"
 				}
-			]
+			],
+			"output":"{'key':'json','key_2':'json','key_2':'json'}"
 		},
 		{
 			"endpoint":"put",
